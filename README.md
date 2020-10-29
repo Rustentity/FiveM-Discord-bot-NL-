@@ -1,4 +1,4 @@
-# 🤖 FiveM Discord bot Nederlands
+# 🤖 FiveM Discord bot
 
 ![alt text](https://i.imgur.com/vgdoyyJ.png)
 
